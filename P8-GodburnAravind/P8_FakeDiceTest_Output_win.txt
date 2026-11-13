@@ -1,0 +1,2092 @@
+C:\Users\Ryan\Documents\CLionProjects\P8-GodburnAravind-final\cmake-build-debug\P1_GodburnArjun.exe
+
+----------------------------------------------------------------
+	Ryan Godburn & Arjun Aravind
+	CPSC 427/527
+	Thu Apr  3 2025	22:24:43
+----------------------------------------------------------------
+Select dice type:
+1 - Can't Stop dice (manual pairing)
+2 - Fake dice (from file)
+Choice: 2
+Enter number of players (2-4): 2
+
+Enter data for Player 1:
+Enter player name (no spaces): r
+Enter color:
+1 - Orange
+2 - Yellow
+3 - Green
+4 - Blue
+Choice: 1
+
+Enter data for Player 2:
+Enter player name (no spaces): e
+Enter color:
+1 - Orange
+2 - Yellow
+3 - Green
+4 - Blue
+Choice: 2
+
+Players in game:
+r (orange) Score: 0
+e (yellow) Score: 0
+
+
+=== e (yellow) Score: 0's turn ===
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+AUTO: Rolling dice...
+Dice: A=3, B=3, C=3, D=3
+First pair: 6, Second pair: 6
+Move code from file: R (Roll)
+Move to column 6: Success
+Move to column 6: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  T----    -----  -----  -----  -----  -----  -----  -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=3, B=3, C=3, D=3
+First pair: 6, Second pair: 6
+Move code from file: R (Roll)
+Move to column 6: Success
+Move to column 6: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  T----    -----  -----  -----  -----  -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=3, B=3, C=3, D=3
+First pair: 6, Second pair: 6
+Move code from file: R (Roll)
+Move to column 6: Success
+Move to column 6: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  T----    -----  -----  -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=3, B=3, C=3, D=3
+First pair: 6, Second pair: 6
+Move code from file: R (Roll)
+Move to column 6: Success
+Move to column 6: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  T----    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=3, B=3, C=3, D=3
+First pair: 6, Second pair: 6
+Move code from file: R (Roll)
+Move to column 6: Success
+Move to column 6: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  T----    -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=3, B=3, C=3, D=3
+First pair: 6, Second pair: 6
+Move code from file: R (Roll)
+Move to column 6: Success
+Move to column 6: Failed
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Pending	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  T----  
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=3, B=3, C=3, D=3
+First pair: 6, Second pair: 6
+Move code from file: R (Roll)
+Move to column 6: Failed
+Move to column 6: Failed
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Pending	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  T----  
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+*** BUST! ***
+AUTO: Turn over due to bust.
+
+=== r (orange) Score: 0's turn ===
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+AUTO: Rolling dice...
+Dice: A=3, B=3, C=3, D=3
+First pair: 6, Second pair: 6
+Move code from file: R (Roll)
+Move to column 6: Success
+Move to column 6: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  T----    -----  -----  -----  -----  -----  -----  -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=3, B=3, C=3, D=3
+First pair: 6, Second pair: 6
+Move code from file: R (Roll)
+Move to column 6: Success
+Move to column 6: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  T----    -----  -----  -----  -----  -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=3, B=3, C=3, D=3
+First pair: 6, Second pair: 6
+Move code from file: R (Roll)
+Move to column 6: Success
+Move to column 6: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  T----    -----  -----  -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=3, B=3, C=3, D=3
+First pair: 6, Second pair: 6
+Move code from file: S (Stop)
+Move to column 6: Success
+Move to column 6: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  T----    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+AUTO: Stopping turn based on file instruction.
+Turn ended, towers converted to tiles:
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -O---    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+
+=== e (yellow) Score: 0's turn ===
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -O---    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+AUTO: Rolling dice...
+Dice: A=3, B=3, C=3, D=3
+First pair: 6, Second pair: 6
+Move code from file: R (Roll)
+Move to column 6: Success
+Move to column 6: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  T----    -----  -----  -----  -----  -----  -O---    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=3, B=3, C=3, D=3
+First pair: 6, Second pair: 6
+Move code from file: R (Roll)
+Move to column 6: Success
+Move to column 6: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  T----    -----  -----  -----  -O---    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=3, B=3, C=3, D=3
+First pair: 6, Second pair: 6
+Move code from file: R (Roll)
+Move to column 6: Success
+Move to column 6: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  T----    -----  -O---    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=3, B=3, C=3, D=3
+First pair: 6, Second pair: 6
+Move code from file: S (Stop)
+Move to column 6: Success
+Move to column 6: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  TO---    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+AUTO: Stopping turn based on file instruction.
+Turn ended, towers converted to tiles:
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+
+=== r (orange) Score: 0's turn ===
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+AUTO: Rolling dice...
+Dice: A=4, B=4, C=4, D=4
+First pair: 8, Second pair: 8
+Move code from file: R (Roll)
+Move to column 8: Success
+Move to column 8: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  T----    -----  -----  -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=4, B=4, C=4, D=4
+First pair: 8, Second pair: 8
+Move code from file: R (Roll)
+Move to column 8: Success
+Move to column 8: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  T----    -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=4, B=4, C=4, D=4
+First pair: 8, Second pair: 8
+Move code from file: R (Roll)
+Move to column 8: Success
+Move to column 8: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  T----    -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=4, B=4, C=4, D=4
+First pair: 8, Second pair: 8
+Move code from file: R (Roll)
+Move to column 8: Success
+Move to column 8: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  T----    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=4, B=4, C=4, D=4
+First pair: 8, Second pair: 8
+Move code from file: R (Roll)
+Move to column 8: Success
+Move to column 8: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  T----    -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=4, B=4, C=4, D=4
+First pair: 8, Second pair: 8
+Move code from file: R (Roll)
+Move to column 8: Success
+Move to column 8: Failed
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Pending	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  T----  
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=4, B=4, C=4, D=4
+First pair: 8, Second pair: 8
+Move code from file: R (Roll)
+Move to column 8: Failed
+Move to column 8: Failed
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Pending	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  T----  
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+*** BUST! ***
+AUTO: Turn over due to bust.
+
+=== e (yellow) Score: 0's turn ===
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+AUTO: Rolling dice...
+Dice: A=4, B=4, C=4, D=4
+First pair: 8, Second pair: 8
+Move code from file: R (Roll)
+Move to column 8: Success
+Move to column 8: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  T----    -----  -----  -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=4, B=4, C=4, D=4
+First pair: 8, Second pair: 8
+Move code from file: R (Roll)
+Move to column 8: Success
+Move to column 8: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  T----    -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=4, B=4, C=4, D=4
+First pair: 8, Second pair: 8
+Move code from file: R (Roll)
+Move to column 8: Success
+Move to column 8: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  T----    -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=4, B=4, C=4, D=4
+First pair: 8, Second pair: 8
+Move code from file: S (Stop)
+Move to column 8: Success
+Move to column 8: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  T----    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+AUTO: Stopping turn based on file instruction.
+Turn ended, towers converted to tiles:
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+
+=== r (orange) Score: 0's turn ===
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+AUTO: Rolling dice...
+Dice: A=4, B=4, C=4, D=4
+First pair: 8, Second pair: 8
+Move code from file: R (Roll)
+Move to column 8: Success
+Move to column 8: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  T----    -----  -----  -----  -----  -----  --Y--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=4, B=4, C=4, D=4
+First pair: 8, Second pair: 8
+Move code from file: R (Roll)
+Move to column 8: Success
+Move to column 8: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  T----    -----  -----  -----  --Y--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=4, B=4, C=4, D=4
+First pair: 8, Second pair: 8
+Move code from file: R (Roll)
+Move to column 8: Success
+Move to column 8: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  T----    -----  --Y--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=4, B=4, C=4, D=4
+First pair: 8, Second pair: 8
+Move code from file: S (Stop)
+Move to column 8: Success
+Move to column 8: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  T-Y--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+AUTO: Stopping turn based on file instruction.
+Turn ended, towers converted to tiles:
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+
+=== e (yellow) Score: 0's turn ===
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+AUTO: Rolling dice...
+Dice: A=5, B=5, C=5, D=5
+First pair: 10, Second pair: 10
+Move code from file: R (Roll)
+Move to column 10: Success
+Move to column 10: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  T----    -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 10
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=5, B=5, C=5, D=5
+First pair: 10, Second pair: 10
+Move code from file: R (Roll)
+Move to column 10: Success
+Move to column 10: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  T----    -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 10
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=5, B=5, C=5, D=5
+First pair: 10, Second pair: 10
+Move code from file: R (Roll)
+Move to column 10: Success
+Move to column 10: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  T----    -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 10
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=5, B=5, C=5, D=5
+First pair: 10, Second pair: 10
+Move code from file: R (Roll)
+Move to column 10: Success
+Move to column 10: Failed
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Pending	  -----  -----  -----  -----  -----  -----  T----  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 10
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=5, B=5, C=5, D=5
+First pair: 10, Second pair: 10
+Move code from file: R (Roll)
+Move to column 10: Failed
+Move to column 10: Failed
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Pending	  -----  -----  -----  -----  -----  -----  T----  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 10
+====================
+
+*** BUST! ***
+AUTO: Turn over due to bust.
+
+=== r (orange) Score: 0's turn ===
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+AUTO: Rolling dice...
+Dice: A=5, B=5, C=5, D=5
+First pair: 10, Second pair: 10
+Move code from file: R (Roll)
+Move to column 10: Success
+Move to column 10: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  T----    -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 10
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=5, B=5, C=5, D=5
+First pair: 10, Second pair: 10
+Move code from file: R (Roll)
+Move to column 10: Success
+Move to column 10: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  T----    -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 10
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=5, B=5, C=5, D=5
+First pair: 10, Second pair: 10
+Move code from file: R (Roll)
+Move to column 10: Success
+Move to column 10: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  T----    -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 10
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=5, B=5, C=5, D=5
+First pair: 10, Second pair: 10
+Move code from file: R (Roll)
+Move to column 10: Success
+Move to column 10: Failed
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Pending	  -----  -----  -----  -----  -----  -----  T----  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 10
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=5, B=5, C=5, D=5
+First pair: 10, Second pair: 10
+Move code from file: R (Roll)
+Move to column 10: Failed
+Move to column 10: Failed
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Pending	  -----  -----  -----  -----  -----  -----  T----  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 10
+====================
+
+*** BUST! ***
+AUTO: Turn over due to bust.
+
+=== e (yellow) Score: 0's turn ===
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+AUTO: Rolling dice...
+Dice: A=5, B=5, C=5, D=5
+First pair: 10, Second pair: 10
+Move code from file: S (Stop)
+Move to column 10: Success
+Move to column 10: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  T----    -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 10
+====================
+
+AUTO: Stopping turn based on file instruction.
+Turn ended, towers converted to tiles:
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  --Y--    -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 10
+====================
+
+
+=== r (orange) Score: 0's turn ===
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  --Y--    -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+AUTO: Rolling dice...
+Dice: A=5, B=5, C=5, D=5
+First pair: 10, Second pair: 10
+Move code from file: R (Roll)
+Move to column 10: Success
+Move to column 10: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  T-Y--    -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 10
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=5, B=5, C=5, D=5
+First pair: 10, Second pair: 10
+Move code from file: R (Roll)
+Move to column 10: Success
+Move to column 10: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  --Y--    -----  T----    -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 10
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=5, B=5, C=5, D=5
+First pair: 10, Second pair: 10
+Move code from file: R (Roll)
+Move to column 10: Success
+Move to column 10: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  --Y--    -----  -----  -----  T----    -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 10
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=5, B=5, C=5, D=5
+First pair: 10, Second pair: 10
+Move code from file: S (Stop)
+Move to column 10: Success
+Move to column 10: Failed
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Pending	  -----  --Y--    -----  -----  -----  -----  T----  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 10
+====================
+
+AUTO: Stopping turn based on file instruction.
+Turn ended, towers converted to tiles:
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 10
+====================
+
+
+=== e (yellow) Score: 0's turn ===
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+AUTO: Rolling dice...
+Dice: A=3, B=3, C=3, D=3
+First pair: 6, Second pair: 6
+Move code from file: R (Roll)
+Move to column 6: Success
+Move to column 6: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  T----    -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=3, B=3, C=3, D=3
+First pair: 6, Second pair: 6
+Move code from file: R (Roll)
+Move to column 6: Success
+Move to column 6: Failed
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Pending	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  T----  
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=3, B=3, C=3, D=3
+First pair: 6, Second pair: 6
+Move code from file: R (Roll)
+Move to column 6: Failed
+Move to column 6: Failed
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Pending	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  T----  
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+*** BUST! ***
+AUTO: Turn over due to bust.
+
+=== r (orange) Score: 1 Columns: 10's turn ===
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+AUTO: Rolling dice...
+Dice: A=3, B=3, C=3, D=3
+First pair: 6, Second pair: 6
+Move code from file: S (Stop)
+Move to column 6: Success
+Move to column 6: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  T----    -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+AUTO: Stopping turn based on file instruction.
+Turn ended, towers converted to tiles:
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+
+=== e (yellow) Score: 0's turn ===
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+AUTO: Rolling dice...
+Dice: A=4, B=4, C=4, D=4
+First pair: 8, Second pair: 8
+Move code from file: R (Roll)
+Move to column 8: Success
+Move to column 8: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  T----    -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=4, B=4, C=4, D=4
+First pair: 8, Second pair: 8
+Move code from file: R (Roll)
+Move to column 8: Success
+Move to column 8: Failed
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Pending	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  T----  
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=4, B=4, C=4, D=4
+First pair: 8, Second pair: 8
+Move code from file: R (Roll)
+Move to column 8: Failed
+Move to column 8: Failed
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Pending	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  T----  
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+*** BUST! ***
+AUTO: Turn over due to bust.
+
+=== r (orange) Score: 1 Columns: 10's turn ===
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+AUTO: Rolling dice...
+Dice: A=4, B=4, C=4, D=4
+First pair: 8, Second pair: 8
+Move code from file: S (Stop)
+Move to column 8: Success
+Move to column 8: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -OY--    -----  T----    -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+AUTO: Stopping turn based on file instruction.
+Turn ended, towers converted to tiles:
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+
+=== e (yellow) Score: 0's turn ===
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+AUTO: Rolling dice...
+Dice: A=5, B=5, C=5, D=5
+First pair: 10, Second pair: 10
+Move code from file: R (Roll)
+Move to column 10: Failed
+Move to column 10: Failed
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+*** BUST! ***
+AUTO: Turn over due to bust.
+
+=== r (orange) Score: 1 Columns: 10's turn ===
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+AUTO: Rolling dice...
+Dice: A=5, B=5, C=5, D=5
+First pair: 10, Second pair: 10
+Move code from file: R (Roll)
+Move to column 10: Failed
+Move to column 10: Failed
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+*** BUST! ***
+AUTO: Turn over due to bust.
+
+=== e (yellow) Score: 0's turn ===
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+AUTO: Rolling dice...
+Dice: A=5, B=5, C=5, D=5
+First pair: 10, Second pair: 10
+Move code from file: R (Roll)
+Move to column 10: Failed
+Move to column 10: Failed
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+*** BUST! ***
+AUTO: Turn over due to bust.
+
+=== r (orange) Score: 1 Columns: 10's turn ===
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+AUTO: Rolling dice...
+Dice: A=5, B=5, C=5, D=5
+First pair: 10, Second pair: 10
+Move code from file: S (Stop)
+Move to column 10: Failed
+Move to column 10: Failed
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+*** BUST! ***
+AUTO: Turn over due to bust.
+
+=== e (yellow) Score: 0's turn ===
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+AUTO: Rolling dice...
+Dice: A=3, B=3, C=3, D=3
+First pair: 6, Second pair: 6
+Move code from file: R (Roll)
+Move to column 6: Success
+Move to column 6: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  TO---    -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=3, B=3, C=3, D=3
+First pair: 6, Second pair: 6
+Move code from file: R (Roll)
+Move to column 6: Success
+Move to column 6: Failed
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Pending	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    T----  
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=3, B=3, C=3, D=3
+First pair: 6, Second pair: 6
+Move code from file: R (Roll)
+Move to column 6: Failed
+Move to column 6: Failed
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Pending	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    T----  
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+*** BUST! ***
+AUTO: Turn over due to bust.
+
+=== r (orange) Score: 1 Columns: 10's turn ===
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+AUTO: Rolling dice...
+Dice: A=3, B=3, C=3, D=3
+First pair: 6, Second pair: 6
+Move code from file: S (Stop)
+Move to column 6: Success
+Move to column 6: Failed
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Pending	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    T----  
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+AUTO: Stopping turn based on file instruction.
+Turn ended, towers converted to tiles:
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Captured	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -----  -O---  
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 6
+====================
+
+
+=== e (yellow) Score: 0's turn ===
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Captured	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -----  -O---  
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+AUTO: Rolling dice...
+Dice: A=4, B=4, C=4, D=4
+First pair: 8, Second pair: 8
+Move code from file: R (Roll)
+Move to column 8: Success
+Move to column 8: Success
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Captured	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -----  -O---  
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  TO---    -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=4, B=4, C=4, D=4
+First pair: 8, Second pair: 8
+Move code from file: R (Roll)
+Move to column 8: Success
+Move to column 8: Failed
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Captured	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -----  -O---  
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Pending	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    T----  
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+AUTO: Continuing turn based on file instruction.
+AUTO: Rolling dice...
+Dice: A=4, B=4, C=4, D=4
+First pair: 8, Second pair: 8
+Move code from file: R (Roll)
+Move to column 8: Failed
+Move to column 8: Failed
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Captured	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -----  -O---  
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Pending	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    T----  
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+*** BUST! ***
+AUTO: Turn over due to bust.
+
+=== r (orange) Score: 2 Columns: 10 6's turn ===
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Captured	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -----  -O---  
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+AUTO: Rolling dice...
+Dice: A=4, B=4, C=4, D=4
+First pair: 8, Second pair: 8
+Move code from file: S (Stop)
+Move to column 8: Success
+Move to column 8: Failed
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Captured	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -----  -O---  
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Pending	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -O---    T----  
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+AUTO: Stopping turn based on file instruction.
+Turn ended, towers converted to tiles:
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Captured	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -----  -O---  
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Captured	  -----  -----  -----  -----  -----  -----  -----  --Y--    -----  -----  -O---  
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Captured	  -----  --Y--    -----  -----  -----  -----  -O---  
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 1 ====
+Tower 1 in column 8
+====================
+
+
+*******************************************
+*** WINNER: r (orange) Score: 3 Columns: 10 6 8 ***
+*******************************************
+
+Game Over!
+
+Normal termination.
+
+Process finished with exit code 0

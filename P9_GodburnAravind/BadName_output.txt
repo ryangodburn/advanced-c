@@ -1,0 +1,32 @@
+----------------------------------------------------------------
+	Ryan Godburn & Arjun Aravind
+	CPSC 427/527
+	Fri Apr 11 2025	22:02:03
+----------------------------------------------------------------
+Select dice type:
+1 - Can't Stop dice (manual pairing)
+2 - Fake dice (from file)
+Choice: 1
+Enter number of players (2-4): 2
+
+Enter data for Player 1:
+Enter player name (no spaces): r
+Enter color:
+1 - Orange
+2 - Yellow
+3 - Green
+4 - Blue
+Choice: 1
+
+Enter data for Player 2:
+Enter player name (no spaces): r
+Enter color:
+1 - Orange
+2 - Yellow
+3 - Green
+4 - Blue
+Choice: 2
+Error: The name 'r' is already in use!
+Input: Name = r, Color = yellow
+Please try again.
+Enter player name (no spaces): 

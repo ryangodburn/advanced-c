@@ -1,0 +1,58 @@
+----------------------------------------------------------------
+        Ryan Godburn & Arjun Aravind
+        CPSC 427/527
+        Thu Mar 26 2025 21:32:34
+----------------------------------------------------------------
+Enter data for Player:
+Enter player name (no spaces):arjun
+
+Enter color:
+1 - Orange
+2 - Yellow
+3 - Green
+4 - Blue
+Choice:1
+
+
+Select test to run:
+1. Play one turn
+2. Test CList implementation
+Choice:2
+
+=== CList Unit Test ===
+
+Test 1: Adding Players
+Adding 4 players to the list
+Players in list:
+Player1 (orange) Score: 0
+Player2 (yellow) Score: 0
+Player3 (green ) Score: 0
+Player4 (blue  ) Score: 0
+Number of players: 4
+
+Test 2: Testing next() function
+Moving through the list and back to the first player
+Player 2: Player2 (yellow) Score: 0
+Player 3: Player3 (green ) Score: 0
+Player 4: Player4 (blue  ) Score: 0
+Player 1: Player1 (orange) Score: 0
+Player 2: Player2 (yellow) Score: 0
+
+Test 3: Removing a player
+List after removing second player:
+Player1 (orange) Score: 0
+Player3 (green ) Score: 0
+Player4 (blue  ) Score: 0
+Number of players: 3
+
+Test 4: Removing all players
+List after removing all players: Empty list
+Is list empty? Yes
+
+Test 5: Adding players to empty list
+List after adding new players:
+Player5 (orange) Score: 0
+Player6 (yellow) Score: 0
+Number of players: 2
+
+=== End of CList Unit Test ===

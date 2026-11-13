@@ -1,0 +1,55 @@
+----------------------------------------------------------------
+	Ryan Godburn & Arjun Aravind
+	CPSC 427/527
+	Fri Apr 11 2025	22:14:27
+----------------------------------------------------------------
+Select dice type:
+1 - Can't Stop dice (manual pairing)
+2 - Fake dice (from file)
+Choice: 2
+Enter number of players (2-4): 2
+
+Enter data for Player 1:
+Enter player name (no spaces): r
+Enter color:
+1 - Orange
+2 - Yellow
+3 - Green
+4 - Blue
+Choice: 1
+
+Enter data for Player 2:
+Enter player name (no spaces): e
+Enter color:
+1 - Orange
+2 - Yellow
+3 - Green
+4 - Blue
+Choice: 2
+
+Players in game:
+r (orange) Score: 0
+e (yellow) Score: 0
+
+
+=== r (orange) Score: 0's turn ===
+==== BOARD STATUS ====
+2	Available	  -----  -----  -----
+3	Available	  -----  -----  -----  -----  -----
+4	Available	  -----  -----  -----  -----  -----  -----  -----
+5	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+6	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+8	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+9	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----
+10	Available	  -----  -----  -----  -----  -----  -----  -----
+11	Available	  -----  -----  -----  -----  -----
+12	Available	  -----  -----  -----
+==== ACTIVE TOWERS: 0 ====
+====================
+
+AUTO: Rolling dice...
+Invalid dice value in fake dice file
+Error exit
+
+Process finished with exit code 1

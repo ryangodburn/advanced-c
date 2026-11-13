@@ -1,0 +1,31 @@
+
+-------- Starting Game Test - Godburn & Aravind --------
+
+Test 1: Testing Dice Construction and Rolling
+Dice Rolls: 5 1 1 5
+
+Test 2: Verifying Player Construction
+Player 1: Arjun (orange) Score: 0
+Player 2: Ryan (blue  ) Score: 0
+
+Test 3: Testing Column 7 Tower Placement
+Column 7 initial state:
+7	Available	  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+Column 7 after tower placement:
+7	Available	  T----    -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----  -----
+
+Test 4: Testing Column 2 Tower Movement
+Column 2 initial state:
+2	Available	  -----  -----  -----
+Placing tower in Column 2:
+2	Available	  T----    -----  -----
+Moving tower three times:
+After move 1:
+2	Available	  -----  T----    -----
+After move 2:
+2	Pending	  -----  -----  T----  
+After move 3:
+2	Pending	  -----  -----  -----
+Column 2 final state: Pending
+
+--------- End Game Test ---------
